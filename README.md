@@ -21,7 +21,7 @@ pnpm install
 ### 2. Démarrage de l'application
 
 ```bash
-npm run dev
+npm start
 # ou
 pnpm dev
 ```
